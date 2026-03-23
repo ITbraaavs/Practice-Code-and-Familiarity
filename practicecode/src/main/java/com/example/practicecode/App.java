@@ -12,7 +12,7 @@ import java.io.FileReader;
  * Start from scratch
  *
  */
-public class App 
+public class PracticeCoding 
 {
     public static void main( String[] args )
     {
